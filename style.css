@@ -7,7 +7,7 @@
   .container {
     background-color: #e5e5fd;
     min-height: 100vh;
-    border: 10px solid #1d1e4c;
+    border: 10px solid #3d3fce;
   }
   
   .content {
@@ -23,7 +23,7 @@
   .top_section h1 {
     font-size: 50px;
     font-weight: bold;
-    color: #1d1e4c;
+    color: #1c1e75;
     text-transform: uppercase;
   }
   .top_section h4 {
